@@ -62,4 +62,4 @@ fastlane/screenshots/**/*.png
 fastlane/test_output
 
 # Secrets
-GLTP-Conference-Administration-App/Config.plist
+Config.plist
